@@ -1,11 +1,11 @@
 Package: konwerter
 Title: What the Package Does (One Line, Title Case)
-Version: 0.0.0.9000
+Version: 1.0.1.9000
 Authors@R: 
-    person(given = "First",
-           family = "Last",
+    person(given = "Lukasz",
+           family = "Macniak",
            role = c("aut", "cre"),
-           email = "first.last@example.com",
+           email = "lpmacniak@poczta.onet.pl",
            comment = c(ORCID = "YOUR-ORCID-ID"))
 Description: What the package does (one paragraph).
 License: `use_mit_license()`, `use_gpl3_license()` or friends to
